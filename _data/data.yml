@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: marshallalkarim@protonmail.com
-    linkedin: marshall al karim
     github: Marshall experiment
     twitter: '@Marshallalkarim'
     
@@ -27,13 +26,13 @@ sidebar:
 
 
     interests:
-      - item: Badminton
+      - item: Deep Learning
         link:
 
-      - item: Open-source 
+      - item: Computer Vision 
         link:
 
-      - item: Cooking
+      - item: Mobile Robotica
         link:
 
 career-profile:
