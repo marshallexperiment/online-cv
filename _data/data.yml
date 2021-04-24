@@ -39,12 +39,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently I am focusing in 3D modeling in GIS through open-source software, 
+      I have experienced as quantity surveyors and Dimension Control. 
+      I have strong desire and self-driven to learn new things and topics, 
+      like Deep Learning and Data Science application for spatial developement, 
+      mobile robotics for mapping (SLAM and Navigation for example) using Rover and UAV. 
 education:
     - degree: Diploma in Geodesy and Geomatics Engineering
       university: State Polytechnic of Batam
