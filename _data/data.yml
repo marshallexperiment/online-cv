@@ -100,12 +100,19 @@ skills:
 
       - name: GNSS + RTK
         level: 95%
+        
+      - name: ArcGIS
+        level: 70%
+        
+      - name: QGIS
+        level: 70%
 
       - name: ROS
         level: 65%
       
       - name: Open-CV
         level: 45%
-
+        
+      
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
